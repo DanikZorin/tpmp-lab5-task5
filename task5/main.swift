@@ -1,10 +1,4 @@
-//
-//  main.swift
-//  task5
-//
-//  Created by DanikMac on 10.05.26.
-//
-
+// Выполнил Зорин Даниил Гр 10
 import Foundation
 
 print("Hello, World!")
